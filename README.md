@@ -30,7 +30,7 @@ Make sure you have installed the required dependencies before running the script
 
 1. Run the script using Python:
   ```bash
-  python wallet_generator.py
+  python create.py
   ```
 2. Once the script starts, you will be prompted to enter the number of wallets you want to create. Input the desired number.
 3. After generating the wallets, the information will be saved into two files:
